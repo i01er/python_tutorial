@@ -9,8 +9,6 @@ description: 'This tutorial is for anyone who wants to learn Python from zero :)
 ![](.gitbook/assets/image%20%281%29.png)
 
 > Python is a programming language that lets you work quickly and integrate systems more effectively.
->
->  --- [https://www.python.org/](https://www.python.org/)
 
 Python is a programming language that easy to learn and deploy in a quick way. That's why many scientist and data scientist love using Python for development. This is also the reason why you could find many Python's libraries for calculating science data.
 

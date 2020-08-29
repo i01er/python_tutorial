@@ -24,3 +24,15 @@ I will recommend to use code editor when writing Python code. You can use [Subli
 
 ![](.gitbook/assets/image%20%286%29.png)
 
+
+
+#### Jupyter Notebook \(Optional\)
+
+[Jupyter](https://jupyter.org/) Notebook can use for writing and testing Python code on web or on-premise machine.
+
+> Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
+
+
+
+![It may take a longggggg time to load...So I will recommend install it on your own machine.](.gitbook/assets/image%20%287%29.png)
+
