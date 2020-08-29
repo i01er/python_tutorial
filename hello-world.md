@@ -14,5 +14,9 @@ We can use code editor to start coding our python script. Open Sublime and creat
 print("Hello Word")
 ```
 
+#### Run the code
+
+To run the code we write, we can use Terminal\(Linux/MacOS\) or CMD\(Windows\). Open the Terminal or CMD on your own machine.
+
 
 
