@@ -10,11 +10,9 @@ After installing Python package, we can have a try on our machine.
 
 We can use code editor to start coding our python script. Open Sublime and create a new file, type in following code:
 
-```python
-print("Hello Word") 
+```text
+print("Hello Word")
 ```
-
-You need to include "\(" and "\)" for Python 3.X or later \(No need for Python 2.X\)
 
 #### Run the code
 
