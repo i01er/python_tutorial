@@ -17,7 +17,7 @@ else:
     statement(s)
 ```
 
-In python, we need to use "inline" for defining the statement inside `if, elif, else`, for example:
+In python, we need to use "inline"\(Tab\) for defining the statement inside `if, elif, else`, for example:
 
 ```python
 # Create a file if.py
