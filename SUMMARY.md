@@ -10,5 +10,4 @@
 * [Input](input.md)
 * [Control Flow](control-flow.md)
 * [Function](function.md)
-* [Donation](donation.md)
 
