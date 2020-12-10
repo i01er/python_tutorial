@@ -6,7 +6,7 @@ description: Use to control your program flow
 
 ### If, else, if else
 
-The syntax of "if, else":
+The syntax of "if, else if, else":
 
 ```python
 if expression:
