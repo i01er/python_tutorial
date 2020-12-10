@@ -24,6 +24,10 @@ I will recommend to use code editor when writing Python code. You can use [Subli
 
 ![](.gitbook/assets/image%20%286%29.png)
 
+### How to run Python with .py
+
+Once you created a python file with code editor, save it with the format `.py` and you can run it with terminal \(MacOS, Linux\) or CMD \(Windows\). For detail you can refer to [Hello World - Run the code](https://i01er.gitbook.io/python-tutorial/hello-world#run-the-code).
+
 
 
 #### Jupyter Notebook \(Optional\)
