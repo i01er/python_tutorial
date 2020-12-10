@@ -4,7 +4,7 @@
 
 You can let user to input string value during the python program from console:
 
-```text
+```python
 # Create file input.py
 
 name = raw_input ("What is your name ?")
@@ -19,7 +19,7 @@ Save it and run by typing `python input.py` in console:
 
 ### Integer input
 
-```text
+```python
 # Create file num_input.py
 
 age = input("How old are you ?")
