@@ -22,8 +22,14 @@ Save it and run by typing `python input.py` in console:
 ```python
 # Create file num_input.py
 
-age = input("How old are you ?")
+age = input("How old are you ?") # age is an integer
 
-print "You look like " + str(age) + " old"
+print "You look like " + str(age) + " old" # str(age) is a string
 ```
+
+#### Why str\(age\) ?
+
+In this script, age is defined as an integer, however when we print out the result, mixing up string and integer will cause error. We need to change age from int to str by using `str(age)`. Otherwise we will get the error `cannot concatenate 'str' and 'int' objects`.
+
+Reference: [https://docs.python.org/3/library/2to3.html?highlight=input\#to3-automated-python-2-to-3-code-translation](https://docs.python.org/3/library/2to3.html?highlight=input#to3-automated-python-2-to-3-code-translation)
 
