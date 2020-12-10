@@ -8,5 +8,6 @@
 * [Array](array.md)
 * [Dictionary](dictionary.md)
 * [Input](input.md)
+* [Control Flow](control-flow.md)
 * [Function](function.md)
 

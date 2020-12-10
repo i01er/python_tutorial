@@ -11,15 +11,15 @@ You can let user to input string value during the python program from console:
 ```python
 # Create file input.py
 
-name = raw_input ("What is your name ?")
-city = raw_input ("Where do you live ?")
+name = raw_input ("What is your name ?") # name is a string
+city = raw_input ("Where do you live ?") # city is a string
 
 print "Welcome " + name + " from " + city
 ```
 
 Save it and run by typing `python input.py` in console:
 
-![](.gitbook/assets/image%20%289%29.png)
+![](.gitbook/assets/image%20%2810%29.png)
 
 ### Integer input
 
