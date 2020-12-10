@@ -1,3 +1,7 @@
+---
+description: How can we get input from the user?
+---
+
 # Input
 
 ### String input
