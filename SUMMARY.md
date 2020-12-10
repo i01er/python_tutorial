@@ -7,4 +7,6 @@
 * [Variable](variable.md)
 * [Array](array.md)
 * [Dictionary](dictionary.md)
+* [Input](input.md)
+* [Function](function.md)
 
