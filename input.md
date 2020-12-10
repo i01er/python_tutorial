@@ -17,3 +17,13 @@ Save it and run by typing `python input.py` in console:
 
 ![](.gitbook/assets/image%20%289%29.png)
 
+### Integer input
+
+```text
+# Create file num_input.py
+
+age = input("How old are you ?")
+
+print "You look like " + str(age) + " old"
+```
+
