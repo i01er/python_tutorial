@@ -59,6 +59,31 @@ print (a[3])
 
 When we say that lists are ordered, it means that the items have a defined order, and that order will not change.
 
+#### List Index\(advance\)
+
+You can get specific item by using index:
+
+```python
+a = [1,2,3,4,5,6,-1,8]
+
+print(a[0])        #0th position
+>>> 1
+
+print(a[-1])        #last item
+>>> 8
+
+print(a[0:3])        #from 0 to 3rd position
+>>> [1,2,3]
+
+print(a[5:])        #from 5th position to the end
+>>> [6,-1,8]
+
+print(a[-3:])        #from 3rd last to the end
+>>> [6,-1,8]
+```
+
+
+
 #### List Append
 
 If you add new items to a list, the new items will be placed at the end of the list. You can use `append` to add new item to the list.
@@ -119,5 +144,19 @@ print(a[1])
 >>> cherry
 ```
 
+#### List Ordering
 
+You can order the list in ascending or descending order:
+
+```python
+a = [4,1,2,3,5,1,1,-1]
+a.sort()
+
+print(a)
+>>> [-1,1,1,1,2,3,4,5]
+
+a.sort(reverse=True)
+print(a)
+>>> [5,4,3,2,1,1,1,-1]
+```
 
