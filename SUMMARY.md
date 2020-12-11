@@ -5,7 +5,7 @@
 * [Hello World](hello-world.md)
 * [Math 1+1](math-1+1.md)
 * [Variable](variable.md)
-* [Array](array.md)
+* [List](array.md)
 * [Dictionary](dictionary.md)
 * [Input](input.md)
 * [Control Flow](control-flow.md)
