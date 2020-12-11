@@ -12,10 +12,9 @@ Lists are created using square brackets:
 
 ```python
 a = [1,2,3,4,5]
-b = ["apple", "banana", "orange", "cherry"]
 
 print(a)
-print(b)
+>>> [1,2,3,4,5]
 ```
 
 {% hint style="info" %}
@@ -25,6 +24,23 @@ List items can be of any data type.
 ### List Items
 
 List items are ordered, changeable, and allow duplicate values.
+
+#### List Items Data Types
+
+List items can be of any data type:
+
+```python
+a = [1,2,3,4,5]
+b = ["apple", "banana", "orange", "cherry"]
+c = [True, False, False]
+```
+
+A list can contain different data types:
+
+```python
+a = ["abc", 34, True, 40, "male"]
+#A list with strings, integers and boolean values
+```
 
 #### List Index
 
@@ -72,6 +88,22 @@ a.insert(2,37)    #Insert number 37 in 2nd position
 print(a)
 >>> [1,2,37,3,4,5,6]
 ```
+
+#### List Remove
+
+You can remove item from the list:
+
+```python
+a = [1,2,3,4,5,6]
+a.remove(2)
+
+print(a)
+>>> [1,3,4,5,6]
+```
+
+{% hint style="info" %}
+If the list contains same value \(i.e. \[1,2,3,4,5,3,2\]\), only the first item appear on the list will be delete.
+{% endhint %}
 
 #### List Same Value
 
