@@ -2,7 +2,7 @@
 description: 'This tutorial is for anyone who wants to learn Python from zero :)'
 ---
 
-# PYTH1001 - Python 101
+# Python 101
 
 ## What is Python?
 

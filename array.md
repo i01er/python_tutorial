@@ -160,3 +160,7 @@ print(a)
 >>> [5,4,3,2,1,1,1,-1]
 ```
 
+
+
+Reference: [https://www.w3schools.com/python/python\_lists.asp](https://www.w3schools.com/python/python_lists.asp)
+
