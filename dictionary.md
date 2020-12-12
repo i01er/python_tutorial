@@ -1,5 +1,5 @@
 ---
-description: How to use dictionary in Python
+description: 'Dictionaries are used to store data values in key:value pairs.'
 ---
 
 # Dictionary

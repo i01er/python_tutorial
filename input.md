@@ -24,11 +24,11 @@ Save it and run by typing `python input.py` in console:
 ### Integer input
 
 ```python
-# Create file num_input.py
+#Create file num_input.py
 
-age = input("How old are you ?") # age is an integer
+age = input("How old are you ?") #age is an integer
 
-print "You look like " + str(age) + " old" # str(age) is a string
+print "You look like " + str(age) + " old" #str(age) is a string
 ```
 
 #### Why str\(age\) ?
