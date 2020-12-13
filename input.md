@@ -51,9 +51,9 @@ Python 3.6 uses the `input()` method.
 Python 2.7 uses the `raw_input()` method.
 {% endhint %}
 
+
+
 Reference: [https://docs.python.org/3/library/2to3.html?highlight=input\#to3-automated-python-2-to-3-code-translation](https://docs.python.org/3/library/2to3.html?highlight=input#to3-automated-python-2-to-3-code-translation)
 
-{% embed url="https://www.w3schools.com/python/python\_user\_input.asp" %}
-
-
+[https://www.w3schools.com/python/python\_user\_input.asp](https://www.w3schools.com/python/python_user_input.asp)
 
