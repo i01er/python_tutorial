@@ -21,6 +21,10 @@ Save it and run by typing `python input.py` in console:
 
 ![](.gitbook/assets/image%20%2810%29.png)
 
+{% hint style="info" %}
+Python stops executing when it comes to the `input()` function, and continues when the user has given some input.
+{% endhint %}
+
 ### Integer input
 
 ```python
@@ -35,5 +39,21 @@ print "You look like " + str(age) + " old" #str(age) is a string
 
 In this script, age is defined as an integer, however when we print out the result, mixing up string and integer will cause error. We need to change age from int to str by using `str(age)`. Otherwise we will get the error `cannot concatenate 'str' and 'int' objects`.
 
+#### Versioning
+
+In common,
+
+{% hint style="info" %}
+Python 3.6 uses the `input()` method.
+{% endhint %}
+
+{% hint style="info" %}
+Python 2.7 uses the `raw_input()` method.
+{% endhint %}
+
 Reference: [https://docs.python.org/3/library/2to3.html?highlight=input\#to3-automated-python-2-to-3-code-translation](https://docs.python.org/3/library/2to3.html?highlight=input#to3-automated-python-2-to-3-code-translation)
+
+{% embed url="https://www.w3schools.com/python/python\_user\_input.asp" %}
+
+
 
